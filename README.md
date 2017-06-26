@@ -32,7 +32,8 @@ Note that some tools to visualize biological data (ensembl/UCSC genome browsers,
 ## Interesting Links & Sources
 
 **Interesting Web Sites**  
-- Rich resource containing many interesting presentations and links: [http://mkweb.bcgsc.ca/](http://mkweb.bcgsc.ca/) and [blog entries](http://mkweb.bcgsc.ca/news/)  
+- Rich resource containing many interesting presentations and links: [http://mkweb.bcgsc.ca/](http://mkweb.bcgsc.ca/), [blog entries](http://mkweb.bcgsc.ca/news/) and [visualization seminar](http://circos.ca/tutorials/course/) 
+- [Video mini-series](http://mkweb.bcgsc.ca/essentials.of.data.visualization/) (8 parts, each 15 min)
 - [Points of view](http://clearscience.info/wp/?p=546): column on data visualization in Nature method  
 - [Biological data visualization (120 slides)](http://gehlenborg.com/wp-content/uploads/nils-gehlenborg_infovis-and-cancer-symposium_biovis-introduction-tutorial-part2.pdf)
 - [10 PLoS tips](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)  
@@ -53,7 +54,6 @@ Note that some tools to visualize biological data (ensembl/UCSC genome browsers,
 - [Graphics Course using R](http://biostat.mc.vanderbilt.edu/wiki/pub/Main/StatGraphCourse/graphscourse.pdf)
 - [Tufte design in R](http://motioninsocial.com/tufte/)  
 
-  
 **Colors / Colorblindness**  
 - [ColorBrewer](http://colorbrewer2.org/)  
 - [http://mkweb.bcgsc.ca/colorblind/](http://mkweb.bcgsc.ca/colorblind/ )
