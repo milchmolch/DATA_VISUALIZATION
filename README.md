@@ -2,7 +2,7 @@
 ### URPP Evolution in Action
 ![URPP logo](Logo_URPP_kl2.png)
 
-Stefan Wyder & Heidi Lischer
+Stefan Wyder & Heidi Tschanz-Lischer
 
 stefan.wyder@uzh.ch (SW)
 heidi.lischer@ieu.uzh.ch (HTL)
@@ -15,7 +15,7 @@ heidi.lischer@ieu.uzh.ch (HTL)
 The course is largely based on Jessie Kennedy's 2012 tutorial slides on [Visualization Principles](http://mkweb.bcgsc.ca/vizbi/2012/)
     
   
-1. The properties of the data or information [pdf](URPP_Tutorial_PrinciplesOfDataVisualization_HTL.pdf) (HTL)
+1. The properties of the data or information [pdf](URPP_Tutorial_DataVisualization_HTL.pdf) (HTL)
 
 2. Use of salience, colors, consistency and layout (HTL)
 
@@ -69,4 +69,4 @@ Note that some tools to visualize biological data (ensembl/UCSC genome browsers,
 - [Planets](http://www.nytimes.com/interactive/science/space/keplers-tally-of-planets.html)  
   
 **Books**  
-famous is Edward R. Tufte's books: Visual Display of Quantitative Information, Envisioning Information, Visual Explanations 
+- famous is Edward R. Tufte's books: Visual Display of Quantitative Information, Envisioning Information, Visual Explanations 
