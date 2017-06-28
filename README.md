@@ -55,8 +55,9 @@ Note that some tools to visualize biological data (ensembl/UCSC genome browsers,
 - [Tufte design in R](http://motioninsocial.com/tufte/)  
 
 **Colors / Colorblindness**  
+- [Web Color Blindness Simulator](http://http://rehue.net/) 
 - [ColorBrewer](http://colorbrewer2.org/)  
-- [http://mkweb.bcgsc.ca/colorblind/](http://mkweb.bcgsc.ca/colorblind/ )
+- [http://mkweb.bcgsc.ca/colorblind/](http://mkweb.bcgsc.ca/colorblind/)
 
 **Space-time visualizations**  
  - [a space-time expression tool](http://www.cs.utah.edu/~miriah/multeesum/)  
